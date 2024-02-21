@@ -7,6 +7,15 @@ Aspects of the program
 ![](/images/NotImageWarning.png)
 
 2. Uploading image files:
-![Image Description](/images/NotImageWarning.png)
+![](/images/FileOpenDialog.png)
 
-3. 
+3. Modify the image:
+![](/images/imageOpen.png)
+
+4. Save the modified image
+![](/images/FileSaveDialog.png)
+
+5. Warn user of overriding the file
+![](/images/OverrideFile.png)
+
+
