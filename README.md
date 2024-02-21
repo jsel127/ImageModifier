@@ -4,7 +4,7 @@ This program simplifies the process of modifying images by providing a user-frie
 
 ### Aspects of the Program
 
-1. **Uploading Image Files**:
+1. **Uploading Image Files**: \\
    ![Start Frame](/images/StartFrame.png)
 
 2. **Misuse Handling**:
