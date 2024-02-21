@@ -4,7 +4,7 @@ This program takes a provided back-end code containing the relavent filters and 
 Aspects of the program
 
 1. Misuse handleing: if a file which is not an image is uploaded the GUI will open a warning window.
-![Image Description](/images/NotImageFile.png)
+![Image Description](/images/NotImageWarning.png)
 
 
 3. 
